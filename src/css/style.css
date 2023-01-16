@@ -21,11 +21,10 @@ body {
     background-color: #0B0719;
   }
 
-.Avatar{
+.SideBar{
     display: inline-block;
     width: 230px;
     min-height: 250px;
-    background-color:rgb(91, 91, 230);
     text-align: left;
     padding:30px ;
     color:white;
